@@ -4,3 +4,5 @@
 #### Thumbs up to Campus expert 
 ##### Good job 
 ###### Keep it up
+
+![Image of a cat](https://octodex.github.com/images/yaktocat.png)
